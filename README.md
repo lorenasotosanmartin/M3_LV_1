@@ -3,7 +3,7 @@
 En este proyecto se implementarán objetos JSON, además, de estructuras avanzadas y algoritmos de búsqueda y ordenamiento, al proyecto titulado “Clínica Chillán”.
 ## Objetos JSON y operaciones
 En el archivo data.js ubicado en la carpeta data se crearon dos objetos JSON:
--	**doctores:**el cual contenía toda la información asociada a los doctores registrados de la clínica, el cual, también cuenta con un objeto anidado como es la información asociada al contacto.
+-	**doctores:** el cual contenía toda la información asociada a los doctores registrados de la clínica, el cual, también cuenta con un objeto anidado como es la información asociada al contacto.
 -	**servicios:** contiene la información asociada a los servicios médicos disponibles ofrecidos por la clínica.
 En base a estos dos objetos JSON, se realizaron las siguientes operaciones en el mismo archivo data.js:
 -	**Clonación:**  se realiza una clonación de la información del objeto JSON doctores, el objeto obtenido como resultado de la operación se almacena en la variables clonación.
